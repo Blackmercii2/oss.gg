@@ -25,5 +25,15 @@ Created a community-work.txt file for the reasons mentioned above
 -------------------
 » April 2nd, 2024 by Doreen
 
-Setup Discord channels (please elaborate more on what you did and why)
+Setup Discord channels to
+1. To assist in managing permissions for team members.
+2. To aid in establishing hierarchy within the community.
+3. To facilitate the organization of members within OSS.gg community
+
+How did i do this? 
+1. Created and assigned a role based on each team member strength and ability e.g PMs, Designers and Engineers 
+2. Created some channels like the resources channel, Qand As all for newbies to ask questions, get help and resources to help their contribution journey
+3. Updates channel for posting regular updates for the community like new issues, events ETC
+
 -------------------
+
